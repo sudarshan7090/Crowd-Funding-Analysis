@@ -54,7 +54,13 @@ The dashboards provide insights into:
 https://public.tableau.com/shared/85D2H9HM3?:display_count=n&:origin=viz_share_link  
 
 📷 **Dashboard Preview:**  
-![Crowd Funding Dashboard](https://github.com/sudarshan7090/Crowd-Funding/blob/main/Images/Snapshot%20of%20CF%20Dashboard-Tableau.png)
+![Crowd Funding Dashboard](https://github.com/sudarshan7090/Crowd-Funding/blob/main/Images/Snapshot%20of%20Dashboard-Tableau/Snapshot%20of%20CF%20Dashboard-Tableau.png)
+
+🔗 **Live Tableau Dashboard:**  
+https://public.tableau.com/shared/85D2H9HM3?:display_count=n&:origin=viz_share_link  
+
+📷 **Dashboard Preview:**  
+![Crowd Funding Dashboard]()
 
 ---
 
