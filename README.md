@@ -25,6 +25,7 @@ Data cleaning is performed using Excel / SQL / Tableau.
 • Developed a Tableau Dashboard to perform analysis, producing interactive visualizations to determine project success patterns and provide actionable insights for better campaign strategies.
 
 Checkout Live Dashboard : https://public.tableau.com/shared/85D2H9HM3?:display_count=n&:origin=viz_share_link
+![image]()
 ---
 
 # Dashboard Overview
